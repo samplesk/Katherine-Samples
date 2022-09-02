@@ -1,7 +1,15 @@
-h1{
-
+head {
+    background-color: white;
 }
 
-p{
-    
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
 }

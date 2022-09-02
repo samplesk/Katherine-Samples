@@ -1,21 +1,11 @@
 h1 {
-    display: block;
     font-size: 30px;
-    margin-block-start: 10px;
-    margin-block-end: 10px;
-    margin-inline-start: 10px;
-    margin-inline-end: 10px;
     font-weight: bold;
     text-align: center;
 }
 
 p {
-    display: block;
     font-size: 20px;
-    margin-block-start: 10px;
-    margin-block-end: 10px;
-    margin-inline-start: 10px;
-    margin-inline-end: 10px;
     font-weight: normal;
     text-align: center;
 }
